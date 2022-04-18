@@ -1,4 +1,6 @@
-RStudio does not provide an official repository for Debian/Ubuntu. This repository serves the latest official `.deb` from RStudio. All files are checked against the RStudio GPG keys. The repo is automatically updated twice per day.
+# RStudio APT Repository
+
+RStudio does not provide an official repository for Debian/Ubuntu. This is an unofficial apt repository for RStudio. This repository serves the latest official `.deb` from RStudio. All files are checked against the RStudio GPG keys. The repo is automatically updated twice per day.
 
 ## Installation Instructions
 
