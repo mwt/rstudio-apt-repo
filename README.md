@@ -1,4 +1,4 @@
-**The url to the repository has been updated! Please re-run step 2 below to use the new paths**
+**The url to the repository has been updated! Please re-run steps 1 and 2 below to use the new paths**
 
 RStudio does not provide an official repository for Debian/Ubuntu. This is an unofficial apt repository for RStudio. This repository serves the latest official `.deb` from RStudio. All files are checked against the RStudio GPG keys. The repo is automatically updated twice per day.
 
